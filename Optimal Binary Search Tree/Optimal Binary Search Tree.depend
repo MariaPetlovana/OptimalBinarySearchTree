@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1366818683 source:c:\users\masha\desktop\documents\программирование\с++\e-olimp\задачи\optimal binary search tree\main.cpp
+	<iostream>
+	<cstdio>
+	<climits>
+	<algorithm>
+	<cstring>
+
